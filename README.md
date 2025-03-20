@@ -5,7 +5,10 @@
 
 
 ## Hello!
-I'm a Kosen student who also works as a student engineer at TIER IV. 
+
+👷...
+
+<!-- I'm a Kosen student who also works as a student engineer at TIER IV.  -->
 
 ## SNS, etc.
 - [Twitter(@tg3517)](https://twitter.com/tg3517)
