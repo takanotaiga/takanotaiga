@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/takanotaiga/takanotaiga/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)
+```
+
+    
